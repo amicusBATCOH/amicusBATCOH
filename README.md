@@ -1,10 +1,9 @@
 # Hello, I'm Denis Iusupov
 
-I am a Computer Science student at Curtin University with interest in technology, video games and bicycles. Currently, I am delving into the exciting world of DevOps techniques as part of my studies.
+I have interests in technology, video games and bicycles. Currently, I am delving into the exciting world of DevOps techniques.
 
 ## About Me
 
-- 📚 I'm currently studying Computer Science at Curtin University.
 - 🎮 I have a deep fascination with video games.
 - 🚴‍♂️ I'm an cyclist and love to explore new biking trails and routes.
 - 🖥️ I'm currently focused on learning DevOps techniques to enhance software development and deployment processes.
